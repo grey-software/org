@@ -14,7 +14,7 @@ We have our first [interactive prototype for Material Math!](https://xd.adobe.co
 
 Made possible by [Fatima](https://github.com/fatimanadeem)
 
-## New LinkedInFocus release
+## New LinkedInFocus alpha release
 
 ![LinkedInFocus](https://github.com/grey-software/LinkedInFocus/raw/master/after.png)
 
