@@ -2,11 +2,7 @@
 
 As an apprentice, you get to contribute as an **engineer**, **designer**, or **product manager** with guidance and structure from a Grey Software mentor!
 
-**Here's what some students have to say:**
-
-I got to experience what it was like being onboarded into a codebase and collaborating with a skilled developer and designer. I got the software development education I was looking for.
-
--_Milind_ 
+Below, you'll find the projects you can contribute to, and details of what you'd learn. 
 
 ## Open Projects
 
