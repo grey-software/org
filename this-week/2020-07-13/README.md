@@ -1,15 +1,19 @@
 # This week in Grey Software 2020-07-13
 
-## Material Math's Live Prototype
+We established our [org website](https://org.grey.software), continued working on our apps, and came up a new hiring strategy.
 
-[Arsala](https://github.com/ArsalaBangash) and [Milind](https://github.com/milindvishnoi) collaborated on taking last week's designs and porting them over to the web app. 
+## State of the Source Talk Proposal
 
+We submitted a proposal to speak at the OSI's State of the Source conference. Check out [our proposal](http://tiny.cc/gs-sst)
 
-## Not-for-profit Incorporation
+## Material Math Demo Launched with Home, Practice, and Customization Screens
 
-We're incorporating with the Canadian government! Read our [WIP Articles of Incorporation](https://github.com/grey-software/org/blob/master/ArticlesOfIncorporation.md)
+Check out the demo [here](https://tiny.cc/gs-mm)
 
+## LinkedIn Focus Submitted to the Chrome Web Store
 
-## Hiring
+We hope that users around the workd will be allowed to try LinkedIn Focus soon! 
 
-Grey Software is hiring for its core team [on AngelList](https://angel.co/company/grey-software/jobs).
+## New Hiring Strategy
+
+Grey Software is now going to use AngelList and LinkedIn as it's platforms for getting in touch with students and mentors. We're hard at work developing roles [here](http://tiny.cc/gs-ad)

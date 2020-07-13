@@ -1,9 +1,18 @@
 ---
 home: true
-heroText: Grey Software
+heroText: org.grey.software
 heroImage: /logos/logo.png
-tagline: Freedom and Collaboration in Software
-footer: Grey Software 2020
+tagline: Your guide to the Grey Software Org
+actionText: See what's new →
+actionLink: ./this-week/
+features:
+- title: Onboarding
+  details: New to Grey Software? Check out our onboarding materials!
+- title: Resources
+  details: We R&D creative processes and tools for the open source community to succeed!
+- title: Weekly Updates
+  details: As an organization, Grey Software aims to be as open as possible with transparent weekly updates!  
+footer: Grey Software
 --- 
 
 ### Grey Software promotes freedom and collaboration in software. 

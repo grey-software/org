@@ -2,6 +2,12 @@
 
 ## [2020-07-13](./2020-07-13)
 
+We established our [org website](https://org.grey.software), continued working on our apps, and came up a new hiring strategy.
+
 ## [2020-07-06](./2020-07-06)
 
+Armed with a new orienting vision for the open source educational system of the future, this week we made great progress towards the new prototype for Material Math, and made progress on the nonprofit infrastructure for the organization. 
+
 ## [2020-06-29](./2020-06-29)
+
+The organization received a new orienting vision, made positive progress across our projects, and established an online presence on [Linkedin](https://www.linkedin.com/company/grey-software) and [Twitter](https://twitter.com/grey_software). 
