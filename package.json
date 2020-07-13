@@ -1,0 +1,19 @@
+{
+  "name": "org.grey.software",
+  "version": "0.1.0",
+  "description": "The org website for Grey Software",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "author": "Grey Software",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  },
+  "dependencies": {
+    "vue-svg-loader": "^0.16.0",
+    "vue-typed-js": "^0.1.2"
+  }
+}
