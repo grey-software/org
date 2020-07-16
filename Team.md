@@ -17,6 +17,8 @@ We are a group of Engineers, Designers, Educators, Creatives, and Strategists us
 
 [Nina](https://github.com/itsninaricci29) - Creative Operations
 
+[Chris](https://github.com/hiimchrislim) - Org Web Developer
+
 ### Toonin
 [Ali](https://github.com/alir128) - SME
 
