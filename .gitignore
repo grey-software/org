@@ -2,3 +2,5 @@
 .history
 node_modules
 .vuepress/dist
+.vscode
+.idea

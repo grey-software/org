@@ -8,9 +8,7 @@ _We're creating the open source ecosystem of the future where software maintaine
 
 ## Prototype for Material Math
 
-<img alt="Material Math Prototype" src="https://github.com/grey-software/org/raw/master/ThisWeek/2020-06-29/material-math-prototype.gif" height="343"/>
-
-![Material Math Prototype](https://github.com/grey-software/org/raw/master/ThisWeek/2020-06-29/material-math-prototype.gif)
+<img alt="Material Math Prototype" src="/gifs/MaterialMath/material-math-prototype.gif" height="343"/>
 
 We have our first [interactive prototype for Material Math!](https://xd.adobe.com/view/0440e49d-73b0-4682-8fd7-10c48e861581-5113/screen/a20a6f32-e20e-4735-83d6-cab732b51e39/Home-Page-First-Visit)
 

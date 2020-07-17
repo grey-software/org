@@ -4,7 +4,7 @@ Armed with a new orienting vision for the open source educational system of the 
 
 ## Material Math's Live Prototype A Few PRs Away
 
-<img alt="Material Math Prototype" src="https://github.com/grey-software/org/raw/master/ThisWeek/2020-07-06/MaterialMathPrototype.gif" height="343"/>
+<img alt="Material Math Prototype" src="/gifs/MaterialMath/MaterialMathPrototype.gif" height="343"/>
 
 [Arsala](https://github.com/ArsalaBangash) and [Milind](https://github.com/milindvishnoi) collaborated on taking last week's designs and porting them over to the web app. 
 
