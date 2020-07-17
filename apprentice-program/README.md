@@ -4,9 +4,16 @@ As an apprentice, you get to contribute as an engineer, designer, or product man
 
 ## The Problem
 
-Students crave real-world software experience, because it plays an important role when they’re recruited into the modern tech economy. 
+Students crave real-world software development experience, because it plays an important role when they’re recruited into the modern tech economy. 
 
 They also need guidance and structure as they gain this experience. 
+
+“Without having the assistance whenever we need it, we had to spend hours googling and asking online.” - Baichen
+
+“Even though tons of youtube videos are available, it’s a different experience to have someone that understands what you are going through to guide you in the project.” - Shawn
+
+“As an individual project, you are required to know every aspect of the component including frontend, backend, etc. As a result of that, for most students they have a significant knowledge gap to fill. This preparation process can be time-consuming and discouraging.”  - Brian
+
 
 Outside of highly selective internships, their best bet at getting this kind of experience is by attending expensive bootcamps or taking implementation project courses at school.
 
@@ -14,10 +21,8 @@ Outside of highly selective internships, their best bet at getting this kind of 
 
 Grey Software maintains several open-source apps that apprentices can contribute to. By contributing to apps that are relevant in the real world, students can learn how the apps they interact with are built, deployed, and maintained.
 
-You can find our open apprentice projects [here](https://github.com/grey-software/org/blob/master/ApprenticeProjects.md)
-
-## Results
-
+You can find our open apprentice projects [here](./projects)
+x
 ### Testimonials
 
 “I have been programming on the side for the past year now, mainly using online resources to pair program... yet one session with my mentor was more enriching than hours spent on these side tutorials.” - [_Osama_](https://github.com/orgs/grey-software/people/OsamaSaleh289)
