@@ -18,9 +18,13 @@ Welcome Grey Software Mentor. Please follow the onboarding steps according to yo
 
 ## Product Management 
 
+We use Github issues and milestones to help manage our projects. 
+
 What is Product Management and How to master it? Read Atlassian's guide [here](https://angel.co/company/techshift-alliance/jobs/785592-tech-non-profit-board-member) 
 
 ## Product Ownership
+
+We use Github issues and milestones to help manage our projects. 
 
 What are the roles and responsibilities of a product owner? [Learn more here](https://www.lucidchart.com/blog/product-owner-roles-and-responsibilities)
 
