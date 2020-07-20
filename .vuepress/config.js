@@ -9,6 +9,7 @@ module.exports = {
       "meta",
       { name: "viewport", content: "width=device-width, initial-scale=1" },
     ],
+    ["script", { src: "https://plausible.io/js/plausible.js", dataDomain: "org.grey.software", async: true, defer: true }]
   ],
   themeConfig: {
     logo: "/logos/logo.png",
@@ -24,7 +25,7 @@ module.exports = {
       {
         text: "LinkedIn",
         link: "https://www.linkedin.com/company/grey-software",
-      },    
+      },
 
       { text: "AngelList", link: "https://angel.co/company/grey-software" },
     ],
