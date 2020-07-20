@@ -1,5 +1,9 @@
 # This Week in Grey Software
 
+## [2020-07-13](./2020-07-20)
+
+We recruited two core team members, and published open analytics for our web apps to explore interesting ethical advertising models.
+
 ## [2020-07-13](./2020-07-13)
 
 We established our [org website](https://org.grey.software), continued working on our apps, and came up a new hiring strategy.
