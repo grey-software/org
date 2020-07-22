@@ -4,7 +4,9 @@ Learn how to contribute to building the software development ecosystem of the fu
 
 ## What tools will I need?
 
-Access to a computer and reliable internet. 
+Access to a computer and reliable internet.
+
+For live software engineering sessions on large projects, you'll need a computer capable of running VS Code Live Share. 
 
 ## Do I need to Write Code to Contribute?
 Nope! Everyone can contribute!
