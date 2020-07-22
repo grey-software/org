@@ -13,10 +13,12 @@ features:
 - title: Weekly Updates
   details: As an organization, Grey Software aims to be as open as possible with transparent weekly updates!  
 footer: Grey Software
---- a
+---
 
 ## Freedom and collaboration in software. 
 
 Grey Software is creating the open source ecosystem of the future where software maintainers mentor students and build free software together.
 
 Read more about our vision [here](./about)
+
+Learn about our Apprentice Program [here](./apprentice)
