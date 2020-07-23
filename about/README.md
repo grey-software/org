@@ -27,6 +27,6 @@ Because it plays an important role when they’re recruited into the modern tech
 
 **Grey Software is currently exploring two avenues for adressing these issues**
 
-1. We're creating open-source apps that students can contribute to with guidance and structure from a mentor under our [_Apprentice Program_](./apprentice). 
+1. We're creating open-source apps that students can contribute to with guidance and structure from a mentor under our [_Apprentice Program_](/apprentice). 
 
 2. We're seeking to run an experimental educational program with universities and open source maintainers. In this program, maintainers will be offered university teaching contracts to mentor students in a project course setting. Thus, students get real-world experience, and maintainers can make a sustainable living while developing open-source software. Check out [our proposed model](https://tiny.cc/gs-bm)

@@ -21,7 +21,7 @@ Outside of highly selective internships, their best bet at getting this kind of 
 
 Grey Software maintains several open-source apps that apprentices can contribute to. By contributing to apps that are relevant in the real world, students can learn how the apps they interact with are built, deployed, and maintained.
 
-You can find our open apprentice projects [here](./projects)
+You can find our open apprentice projects [here](/projects)
 
 ### Testimonials
 

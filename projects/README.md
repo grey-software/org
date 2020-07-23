@@ -2,11 +2,15 @@
 sidebar: auto
 ---
 
-# Apprentice Projects
+# Projects
 
-As an apprentice, you get to contribute as an **engineer**, **designer**, or **product manager** with guidance and structure from a Grey Software mentor!
+Gret Software hosts open source projects for students to contribute to as an **engineer**, **designer**, or **product owner** with guidance and structure from a mentor!
 
-Below, you'll find the projects you can contribute to, and details of what you'd learn.
+Below, you'll find the projects you can contribute to, and their details.
+
+::: warning 🚧 Under Construction
+Grey Software is just beginning to lay down the infrastructure needed to have  projects ready for external contributors, so check back here regularly for updates to this page. 
+:::
 
 # Open Projects
 
@@ -64,9 +68,9 @@ Material Math is the spiritual successor to Boltz, a mental math app for Android
 
 Material Math has two core developers who are currently working on an MVP based on the Adobe XD Prototype. 
 
-**Technologies:** HTML, CSS, Javascript, Vue, Quasar, NodeJS, Express, Socket.io, Docker
+**Technologies:** HTML, CSS, Javascript, Vue, Quasar
 
-### Design
+**Design**
 
 We want Bolz to be fun for students to use, so there's plenty of room to experiment with designing an educational experience that students pursue with joy.
 
@@ -84,6 +88,10 @@ We're trying to get Material Math in the hands of educators so that we can begin
 [Repo](https://github.com/grey-software/LinkedInFocus)
 
 LinkedInFocus is a web extension that allows you to hide the news feed and news panel on LinkedIn so you can focus on your career!
+
+### Roadmap
+
+LinkedIn Focus is up on the chrome web store as a release candidate, and we're planning a launch on Product Hunt. Before that, we want to setup advertising for Grey Software's projects and vision so that there's greater awareness of Grey Software's projects.
 
 
 ## grey.software

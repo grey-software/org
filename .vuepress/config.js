@@ -20,6 +20,8 @@ module.exports = {
     searchPlaceholder: "Explore...",
     smoothScroll: true,
     nav: [
+      { text: "Vision", link: "/about/" },
+      { text: "Projects", link: "/projects/" },
       { text: "Team", link: "/team/" },
       { text: "Weekly Updates", link: "/this-week/" },
       {
