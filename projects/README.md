@@ -4,7 +4,7 @@ sidebar: auto
 
 # Projects
 
-Gret Software hosts open source projects for students to contribute to as an **engineer**, **designer**, or **product owner** with guidance and structure from a mentor!
+Grey Software hosts open source projects for students to contribute to as an **engineer**, **designer**, or **product owner** with guidance and structure from a mentor!
 
 Below, you'll find the projects you can contribute to, and their details.
 
