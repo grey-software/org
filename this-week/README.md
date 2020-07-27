@@ -1,5 +1,10 @@
 # This Week in Grey Software
 
+
+## [2020-07-27](./2020-07-27)
+
+TODO
+
 ## [2020-07-20](./2020-07-20)
 
 We recruited two core team members, and published open analytics for our web apps to explore interesting ethical advertising models.
