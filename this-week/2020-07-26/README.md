@@ -6,9 +6,15 @@ Grey Software currently hosts students as [apprentices](/apprentice) as they wor
 
 Our new proposed model is that each project have teams for both creation and education.
 
-The creation team looks to evolve Grey Software's apps and products by using the latest and most efficacious technologies and trends in software development. 
+The creation team looks to evolve Grey Software's apps and products by using the latest and most efficacious technologies and trends in software development. Some of these tools and practices may be experimental, and inaccessible as teaching content. 
 
-The education team follows the lead of the creation team, and turns the app into a viable teaching project. Imagine a curriculum that allows a student to learn how to build a Grey Software app they know and use. The curriclum developers can abstract away certain complexities of the app, allowing the student to harmoniously make their way to the complexity of the code on master. 
+The education team follows the lead of the creation team, and turns the app into a viable teaching project. The curriclum developers abstract away certain complexities of the app, allowing students to harmoniously make their way to the complexity of the code on master. 
+
+### We envision a positive feedback loop between the two teams. 
+
+As the creation team tries new technologies and processes, the education team can embed them into the curriculum to keep their educational content relevant to the technological landscape of the time.  
+
+As the educational team abstracts away complexity and modularizes the project's codebase, the creation team benefits from a healthier codebase with high cohesion and low coupling. As a result, their creative efforts are bolstered by a structured, yet flexible foundation.  
 
 ## ⚙️ The birth of Grey Khan
 
