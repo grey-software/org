@@ -30,6 +30,8 @@ We are a group of Engineers, Designers, Educators, Creatives, and Strategists us
 
 [Milind](https://github.com/milindvishnoi) - Apprentice, SWE, PO
 
+[Fatima](https://github.com/fatimanadeem) - Volunteer, Designer
+
 ### LinkedIn Focus
 
 [Arsala](https://github.com/ArsalaBangash) - Creator, Mentor, SWE, PO 
