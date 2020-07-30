@@ -4,7 +4,7 @@
   "description": "The org website for Grey Software",
   "main": "index.js",
   "scripts": {
-    "start": "vuepress dev",
+    "dev": "vuepress dev",
     "build": "vuepress build"
   },
   "author": "Grey Software",

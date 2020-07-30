@@ -8,6 +8,10 @@ Welcome Grey Software Mentor. Please follow the onboarding steps according to yo
 - Learn about the basics of Git and Github, and sign up for Github. 
 - Join our Github Organization by opening a pull request to [this team file](https://github.com/grey-software/org/blob/master/Team.md)
 
+## Our core mentorship values
+
+Coming soon!
+
 ## Software Engineering
 
 

@@ -1,6 +1,6 @@
 # The Grey Software Apprentice Program
 
-As an apprentice, you get to contribute as an engineer, designer, or product manager with guidance and structure from a Grey Software mentor!
+The apprentice program offers you the opportunity to learn software development by contributing to open source apps as an engineer, designer, or product manager with guidance and structure from a mentor. 
 
 ## The Problem
 
@@ -19,11 +19,29 @@ Outside of highly selective internships, their best bet at getting this kind of 
 
 ## Our Solution
 
-Grey Software maintains several open-source apps that apprentices can contribute to. By contributing to apps that are relevant in the real world, students can learn how the apps they interact with are built, deployed, and maintained.
+Grey Software developed the apprentice program as an internship alternative to student software developers. You'll collaborate on open source software with structure and guidance from a mentor, and walk away with valuable skills and a public demonstration of your work that you can take anywhere.
 
 You can find our open apprentice projects [here](/projects)
 
-### Testimonials
+### Contribute to Production Software
+
+You'll work on open source apps that Grey Software deploys, and that users interact with. 
+
+### Access to a mentor
+
+Your mentor's goal is to help you grow as an open source software developer. They help you by attending live collaboration sessions, answering questions, reviewing code, and structuring your learning experience. 
+
+### Collaborative and Educational
+
+In addition to a mentor, you'll collaborate with other students working on the same project(s) as you. 
+
+## Features 
+
+### Cutting Edge Tech
+
+Grey Software works with the technologies of the future. We'll match you with a project that lets you use the tools you're proficient or interested in. 
+
+## Testimonials
 
 “I have been programming on the side for the past year now, mainly using online resources to pair program... yet one session with my mentor was more enriching than hours spent on these side tutorials.” - [_Osama_](https://github.com/OsamaSaleh289)
 
