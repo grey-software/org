@@ -4,6 +4,8 @@ The apprentice program offers you the opportunity to learn software development 
 
 ## The Problem
 
+Formal education doesn't to prepare you for the world's software ecosystem 
+
 Students crave real-world software development experience, because it plays an important role when they’re recruited into the modern tech economy. 
 
 They also need guidance and structure as they gain this experience. 
@@ -40,6 +42,26 @@ In addition to a mentor, you'll collaborate with other students working on the s
 ### Cutting Edge Tech
 
 Grey Software works with the technologies of the future. We'll match you with a project that lets you use the tools you're proficient or interested in. 
+
+### More than Code
+
+You'll get a chance to explore your potential as a designer or product owner, and gain a well-rounded set of skills. 
+
+### Designed to be remote
+
+Founded during the COVID-19 pandemic, the apprentice program was designed to be remote. Our first 3 students were learning from Canada, India, and Indonesia!
+
+### Financially Empthetic
+
+We're considerate of your financial background, and are open to adjusting our rates or creating customized programs that require you to give back as a mentor after you graduate.  
+
+### Made for learning
+
+The apprentice program was designed to help budding software developers learn by contributing to software that matters, so your education always comes before the project.
+
+### Public Portfolio Upgrade
+
+You'll graduate from the program with a software project(s) to put on your portfolio, and a public log of your Github contributions for employers to look at.  
 
 ## Testimonials
 
