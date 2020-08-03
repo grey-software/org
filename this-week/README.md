@@ -1,9 +1,13 @@
 # This Week in Grey Software
 
 
+## [2020-08-03](./2020-08-03)
+
+This week, we officially submitted our articles of incorporation, launched a blog on our website, and began drawing up slides for collaboration models with other organizations. 
+
 ## [2020-07-26](./2020-07-26)
 
-TODO
+We iterated on our education model, and introduced a mechanism for automating the organization's processes.
 
 ## [2020-07-20](./2020-07-20)
 

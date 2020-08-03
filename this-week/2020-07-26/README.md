@@ -1,5 +1,7 @@
 # This week in Grey Software 2020-07-26
 
+This week, we iterated on our education model, and introduced a mechanism for automating the organization's processes.
+
 ## 💡 Iterating on the Educational Model
 
 Grey Software currently hosts students as [apprentices](/apprentice) as they work on [Grey Software's projects](/projects). This education model is difficult to scale because since the application is being created and taught at the same time, it's hard to define a structured curriculum and predict learning outcomes.
