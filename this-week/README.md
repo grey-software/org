@@ -1,5 +1,13 @@
 # This Week in Grey Software
 
+## [2020-08-24](./2020-08-24)
+
+We released major updates to our two focus extensions, and joined Ontario's TechAlliance incubator!
+
+## [2020-08-17](./2020-08-17)
+
+We started accepting sponsorships on Github, and released a preview for Twitter Focus. 
+
 ## [2020-08-10](./2020-08-10)
 
 Our organization was incorporated in Canada, we setup paypal donations, and made a major upgrade to LinkedIn Focus! 
