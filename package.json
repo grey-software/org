@@ -13,6 +13,8 @@
     "vuepress": "^1.5.2"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^5.2.1",
     "vue-svg-loader": "^0.16.0",
     "vue-typed-js": "^0.1.2"
   }
