@@ -1,5 +1,18 @@
 # This week in Grey Software 2020-09-07
 
+We began our Discord community overhaul, recruited a new app + maintainer, and started a project to help developers distribute paid versions of their software through Github sponsors. 
+
+## Sponsorware
+
+![Grey Software Sponsorware Architecture](https://user-images.githubusercontent.com/19757203/92066287-88c53600-ed6f-11ea-92ee-6eeaf2d61d22.png)
+
+Based on the sponsorware definition from https://github.com/sponsorware/docs, Grey Software student engineers Aaron and Osama began working on a project to allow developers an API to distribute premium versions of their software to their sponsors.
+
+## Recruiting Scital
+
+![Scital](./scital.png)
+
+We recruited BE2200's business model organizer app called [scital](http://scital.app/) to join our collection of open source tools for students. Scital helps students entreprenuers jumpstart their ideas. On the roadmap are features such as links to inspirational blogs and useful business development resources. 
 
 ## Discord Community Updates
 
@@ -10,20 +23,8 @@ We began laying the foundation for the kind of Discord community that we envisio
 [Join us on Discord](https://discord.gg/2FV8Xd)
 
 
-## Sponsorware
-
-![Grey Software Sponsorware Architecture](https://user-images.githubusercontent.com/19757203/92066287-88c53600-ed6f-11ea-92ee-6eeaf2d61d22.png)
-
-Based on the sponsorware definition from https://github.com/sponsorware/docs, Grey Software student engineers Aaron and Osama began working on a project to allow developers an API to distribute premium versions of their software to their sponsors.
-
 ## LinkedIn Focus Bug
 
 ![LinkedIn Focus doesn't work](./focus-doesn't-work.png)
 
 Isha identified a critical bug in LinkedIn Focus that has the extension not working at the moment. This is a known issue! 
-
-## Recruiting Scital
-
-![Scital](./scital.png)
-
-We recruited BE2200's business model organizer app called [scital](http://scital.app/) to join our collection of open source tools for students. Scital helps students entreprenuers jumpstart their ideas. On the roadmap are features such as links to inspirational blogs and useful business development resources. 
