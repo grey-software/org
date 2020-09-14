@@ -1,4 +1,6 @@
-# This Week in Grey Software
+# This Week in Grey Software 2020-09-14
+
+We deployed important fixes and enhancements for our focus extensions, and improved our Github project management processes by integrating label-sync!
 
 ## Dark mode on Twitter Focus
 
