@@ -27,14 +27,10 @@
     }
   },
   "lint-staged": {
-    "*.{json,yml}": [
-      "prettier --write",
-      "git add"
-    ],
+    "*.{json,yml}": "prettier --write",
     "**/*.+(js|md|ts|css|sass|less|graphql|vue)": [
       "prettier --write",
-      "eslint --fix",
-      "git add"
+      "eslint --fix"
     ]
   }
 }
