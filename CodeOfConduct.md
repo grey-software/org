@@ -1,18 +1,22 @@
-# Code of Conduct 
-
+# Code of Conduct
 
 ### Our Pledge
-In the interest of fostering an open and welcoming environment, we as student contributors and maintainers pledge to making participation in our project and our community a harmonious experience for everyone by recognizing our common humanity. 
+
+In the interest of fostering an open and welcoming environment, we as student
+contributors and maintainers pledge to making participation in our project and
+our community a harmonious experience for everyone by recognizing our common
+humanity.
 
 ### Our Standards
 
-We hope to foster behaviour that contributes to creating a positive environment by:
+We hope to foster behaviour that contributes to creating a positive environment
+by:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints and experiences
+- Gracefully accepting constructive criticism
+- Focusing on what is best for the community
+- Showing empathy towards other community members
 
 ### Our Responsibilities
 
@@ -29,12 +33,10 @@ address, posting via an official social media account, or acting as an appointed
 representative at an online or offline event. Representation of a project may be
 further defined and clarified by project maintainers.
 
-
 ### Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at [http://contributor-covenant.org/version/1/4][version]
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
-

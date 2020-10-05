@@ -1,8 +1,11 @@
 # Team
 
-We are a group of Engineers, Designers, Educators, Creatives, and Strategists using our intellect and spirit to build an open source future of freedom and collaboration!
+We are a group of Engineers, Designers, Educators, Creatives, and Strategists
+using our intellect and spirit to build an open source future of freedom and
+collaboration!
 
 ### Legend
+
 **PO:** Product Owner
 
 **PM:** Product Manager
@@ -20,13 +23,14 @@ We are a group of Engineers, Designers, Educators, Creatives, and Strategists us
 [Chris](https://github.com/hiimchrislim) - Org Web Developer
 
 ### Toonin
+
 [Ali](https://github.com/alir128) - SME
 
-[Lakshya](https://github.com/Lakshya2610) - SME 
+[Lakshya](https://github.com/Lakshya2610) - SME
 
 ### Material Math
 
-[Arsala](https://github.com/ArsalaBangash) - Creator, Mentor, SWE, PO 
+[Arsala](https://github.com/ArsalaBangash) - Creator, Mentor, SWE, PO
 
 [Milind](https://github.com/milindvishnoi) - Apprentice, SWE, PO
 
@@ -34,7 +38,6 @@ We are a group of Engineers, Designers, Educators, Creatives, and Strategists us
 
 ### LinkedIn Focus
 
-[Arsala](https://github.com/ArsalaBangash) - Creator, Mentor, SWE, PO 
+[Arsala](https://github.com/ArsalaBangash) - Creator, Mentor, SWE, PO
 
 [Isha](https://github.com/ishaaa-ai) - Apprentice, SWE, PM
-
