@@ -1,9 +1,11 @@
 # This Week in Grey Software 2020-10-05
 
-## Onboarding Futurist Network and Label Sync
+## Collaborating with Label Sync
 
-## Onboarding Label Sync
+## Futurist Network Updates
+
+## Onboarding external projects
 
 ## New Issue Templates
 
-## Projects featured on CSSC
+## Our Projects featured on CSSC
