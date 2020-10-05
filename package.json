@@ -10,7 +10,7 @@
   "author": "Grey Software",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.2"
+    "vuepress": "^1.6.0"
   },
   "dependencies": {
     "vue-svg-loader": "^0.16.0",

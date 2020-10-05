@@ -2,7 +2,7 @@ module.exports = {
   title: "Grey Software",
   description: "",
   head: [
-    ["link", { rel: "icon", href: "/logo.png" }],
+    ["link", { rel: "icon", href: "/logos/logo.png" }],
     ["link", { rel: "stylesheet", href: "/font-awesome-all.css" }],
     ["link", { rel: "stylesheet", href: "/font-awesome-all.css" }],
     [
