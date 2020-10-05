@@ -28,6 +28,10 @@
   },
   "lint-staged": {
     "*.{json,yml}": "prettier --write",
-    "**/*.+(js|md|ts|css|sass|less|graphql|vue)": "prettier --write; eslint --fix"
+    "**/*.+(md)": "prettier --write",
+    "**/*.+(js|ts|css|sass|less|graphql|vue)": [
+      "prettier --write",
+      "eslint --fix"
+    ]
   }
 }
