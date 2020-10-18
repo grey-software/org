@@ -5,8 +5,8 @@
 **We do this by:**
 
 - Creating free apps and tools to improve the open-source software ecosystem
-- Helping students learn software engineering by collaborating with open source
-  maintainers.
+- Empowering students to be the software creators of the future by giving them
+  the opportunity to collaboratively build open source software with mentors.
 
 ## 👁️‍ Vision
 
@@ -39,6 +39,12 @@ economy.
 2. We're seeking to run an experimental educational program with universities
    and open source maintainers. In this program, maintainers will be offered
    university teaching contracts to mentor students in a project course setting.
-   Thus, students get real-world experience, and maintainers can make a
-   sustainable living while developing open-source software. Check out
-   [our proposed model](https://tiny.cc/gs-bm)
+
+As a result, students get real-world experience, and maintainers can make a
+sustainable living while developing open-source software. Check out
+[our proposed model](https://tiny.cc/gs-bm)
+
+- Empowering students to be the software creators of the future by giving them
+  the opportunity to learn in a collaborative environment with mentorship from
+  the open source software creators of today. Helping students learn software
+  engineering by collaborating with open source maintainers.

@@ -24,9 +24,8 @@ purchase premium licenses to Grey Software’s apps and use it ad-free.
 We’re looking into startup funding for our projects like Material Math and
 Toonin, which have the potential to be useful deployed software.
 
-We’re establishing the organization as a not-for-profit to collect tax-free
-donations from individuals and organizations that believe in Grey Software’s
-mission.
+We collect donations from individuals who believe in our mission through Paypal
+and Github Sponsors.
 
 ## Does open source software kill competition?
 
@@ -35,22 +34,36 @@ similar in functionality but different in implementation.
 
 ## How do I join Grey Software?
 
-You can join as an apprentice on a project, where you get to work as a software
+### Join our community
+
+We host an active community on Discord, where we community.grey.software You can
+join as an apprentice on a project, where you get to work as a software
 engineer, designer, or product owner under a mentor.
 
 ## Is Grey Software only for Software Engineers?
 
-Software engineers write the code behind Grey Software’s apps, but designers and
-product owners are integral to the software development process.
+Not at all!
+
+Software engineers write the code behind Grey Software’s apps, but designers,
+product owners, and researchers are integral to our software development
+process.
 
 ## How can I volunteer for Grey Software?
 
+Join community.grey.software and select the volunteer role!
+
+You'll receive a form that will guide you through the next steps, and after
+contributing to the org, you'll be able to generate a PDF/HTML report of your
+contributions at grey.software/report-card
+
 ## Why is Grey Software a not-for-profit organization?
 
-Grey Software’s founder established the organization around a mission to build
-the software ecosystem of the future. It was important to ensure that the
-organization’s future profits went towards this mission instead of the pockets
-of shareholders.
+Grey Software was founded around a mission to build the software ecosystem of
+the future.
+
+To ensure that the organization’s future revenues went towards our mission
+instead of the pockets of shareholders, we founded the organization as a
+not-for-profit.
 
 ## What is Grey Software’s vision?
 
@@ -59,19 +72,24 @@ students and build free software together.
 
 ## What programs are being offered by Grey Software?
 
-## How is Grey Software’s FOSS product connected to its students?
+## How are Grey Software’s products connected to its students?
 
-## What type of projects can Grey Software currently help students with?
+Our students learn software development by collaborating with the creators of
+the products they're working on.
 
-## How is Grey Software different from other educational sites, such as Code Academy, Udemy, and Coursera?
+## How is Grey Software different from other educational sites, such as Udemy, Udacity, and Coursera?
 
-Grey Software’s curriculum is designed to help students follow
+These websites host educational content that many rely on, including Grey
+Software's mentors and students.
 
 ## How does Grey Software deliver its educational content?
 
-Grey Software hosts apprentices who work on our open source projects with
-mentors. Mentors collaborate with apprentices live over video call and VS Code
-Live Share.
+Grey Software hosts students who collaborate with mentors to build products in a
+real-world software development environment/ work on our open source projects
+with mentors.
+
+Mentors collaborate with apprentices live over video call and VS Code Live
+Share.
 
 ## Are Grey Software’s apps free?
 
