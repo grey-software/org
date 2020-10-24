@@ -1,8 +1,8 @@
 ---
 name: Org Initiative
-about: 'Please use this template to suggest a new large initiative for the organization.'
+about: Please use this template to suggest a new large initiative for the organization.
 title: "\U0001F945 Initiative: {{Enter Initiative Title}}"
-labels: 'Role: Maintainer, Role: Product Owner, Domain: User Experience'
+labels: 'Domain: User Experience, Role: Maintainer, Role: Product Owner'
 assignees: ''
 
 ---
