@@ -13,7 +13,7 @@ assignees: ''
 A  clear and concise motivation for this task. How will this help execute the vision of the org?
 -->
 
-(Please write your answer here.)
+(Please write here.)
 
 ### Details 🛠️
 
@@ -21,16 +21,16 @@ A  clear and concise motivation for this task. How will this help execute the vi
   A clear and concise description of what the task is.
 -->
 
-(Please write your answer here.)
+(Please write here.)
 
 **Task Checklist ☑️**
 <!--- Please share details for this task -->
 
-(Please write your answer here.)
+(Please write here.)
 
-- [ ]
-- [ ]
-- [ ]
+- [ ] ...
+- [ ] ...
+- [ ] ...
 
 ### Additional details ℹ️
 
@@ -39,4 +39,4 @@ A  clear and concise motivation for this task. How will this help execute the vi
   You might want to link to related issues here if you haven't already.
 -->
 
-(Please write your answer here.)
+(Please write here.)
