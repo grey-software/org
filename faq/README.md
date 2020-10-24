@@ -36,9 +36,10 @@ similar in functionality but different in implementation.
 
 ### Join our community
 
-We host an active community on Discord, where we community.grey.software You can
-join as an apprentice on a project, where you get to work as a software
-engineer, designer, or product owner under a mentor.
+We host an active community on Discord, where we community.grey.software.
+
+You can also join as an apprentice on a project, where you get to collaborate
+with a mentor as a software engineer, designer, or product.
 
 ## Is Grey Software only for Software Engineers?
 
@@ -67,10 +68,8 @@ not-for-profit.
 
 ## What is Grey Software’s vision?
 
-Grey Software envisions an open source future where software maintainers mentor
-students and build free software together.
-
-## What programs are being offered by Grey Software?
+Grey Software envisions an open source future where mentors and students build
+free software together.
 
 ## How are Grey Software’s products connected to its students?
 
@@ -82,19 +81,35 @@ the products they're working on.
 These websites host educational content that many rely on, including Grey
 Software's mentors and students.
 
+Our mentors teach by collaborating with individuals or small groups on
+real-world projects using the same open-source technologies that are used in the
+industry.
+
 ## How does Grey Software deliver its educational content?
 
-Grey Software hosts students who collaborate with mentors to build products in a
-real-world software development environment/ work on our open source projects
-with mentors.
+Grey Software hosts students who collaborate with mentors to build our open
+-source products in a real-world software development environment with mentors.
+
+Since we create our apps and teach students how to develop them simultaneously,
+it’s hard to define a structured curriculum and predict learning outcomes.
+
+We therefore propose that each project have creation teams and education teams.
+
+The creation team evolves our products using the latest, most productive
+technologies and trends in software development.
+
+The education team turns our products into projects that students can learn
+from. This team abstracts away certain software complexities, allowing students
+to gradually make their way to working with production code.
 
 Mentors collaborate with apprentices live over video call and VS Code Live
 Share.
 
 ## Are Grey Software’s apps free?
 
-Grey Software develops software that protects human freedoms, but still offers
-software that users can pay for.
+Grey Software develops software that protects human freedoms. While most of our
+apps are free, we may still offer paid software in the future. Free software
+refers to 'freedom', not necessarily 'gratis'.
 
 ## How can I sign up?
 
