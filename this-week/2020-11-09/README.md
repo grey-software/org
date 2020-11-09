@@ -4,7 +4,7 @@
 
 Arsala began collaborating with the Pakistan’s National Incubation Center, and the IT Boards of Azad Jammu and Kashmir (State of AJK) and Khyber Pakthunkwa (Province of KP). 
 Grey Software will help design programs for students to gain the real-world software experience they need for their careers or entrepreneurial ventures. Additionally, he's been in
-touch with universities in the nation (Pakistan) to create open-source implementation project course programs, and will be hosting my first information session for students at the University
+touch with universities in the nation (Pakistan) to create open-source implementation project course programs, and will be hosting his first information session for students at the University
 of AJK (Azad Jammu and Kashmir) this Tuesday.
 
 ## Half a year on Pioneer
