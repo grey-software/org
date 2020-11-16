@@ -1,40 +1,33 @@
 # This Week in Grey Software 2020-11-16
 
-## Half a year on Pioneer
+## Lecture at AJKU
 
-![pioneer](/2020-11-09/pioneer.png)
+<img style="height:343px;" src="https://org.grey.software/2020-11-16/ajku-cert.jpg">
 
-This Sunday marks half a year of Grey Software’s participation in the Pioneer
-global startup tournament, where we’ve recently broken into the Global Top 30
-leaderboard. During this time, we have had over 20 developers from all over the
-world successfully contribute code to our projects and have provided an open
-platform for students to gain real-world software experience that they can put
-on their resumes and online portfolios. We have four actively deployed products,
-eight external projects, and many more open student project ideas in various
-stages of their incubation.
+Students at AJKU (University of Azad Jammu and Kashmir) heard about Grey
+Software today during a talk about how real world software skills impact
+internship and entrepreneurship opportunities.
 
-## Updates From Pakistan
+We look forward to collaborating with AJKU on project ideas and guidance for
+students.
 
-![pak](/2020-11-09/pak.png)
+## 2 new Project Concepts
 
-Arsala began collaborating with the Pakistan’s National Incubation Center, and
-the IT Boards of Azad Jammu and Kashmir (State of AJK) and Khyber Pakthunkwa
-(Province of KP). Grey Software will help design programs for students to gain
-the real-world software experience they need for their careers or
-entrepreneurial ventures. Additionally, he's been in touch with universities in
-the nation (Pakistan) to create open-source implementation project course
-programs, and will be hosting his first information session for students at the
-University of AJK (Azad Jammu and Kashmir) this Tuesday.
+![Project Concepts](/2020-11-16/project-concepts.png)
 
-## 4 new External Projects
+We added two new project concepts for students looking for project ideas to work
+on.
 
-This week, we onboarded 4 new external projects:
+### Family Tree Explorer
 
-- The Physics Hub: A web-app to view all the simulations in physics!
-- Modfy.Video: A free tool that transcodes and converts videos right in your
-  browser while protecting your privacy!
-- Bento: An elegant and simple startpage for minimalists!
-- Tab Brightness Control: A web extension that allows you to control brightness
-  of individual chrome tabs!
+A beautiful interface for your family tree that allows you to navigate your
+network of family relationships.
 
-![projects](/2020-11-09/projects.png)
+[Github Repo](https://github.com/grey-software/family-tree-explorer)
+
+### Community Cleanup
+
+Software that allows citizens and their governments to effectively coordinate
+community cleanup and garbage collection efforts.
+
+[Github Repo](https://github.com/grey-software/community-cleanup)
