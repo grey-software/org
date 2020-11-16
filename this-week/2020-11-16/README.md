@@ -26,15 +26,6 @@ the nation (Pakistan) to create open-source implementation project course
 programs, and will be hosting his first information session for students at the
 University of AJK (Azad Jammu and Kashmir) this Tuesday.
 
-## Participating in UTMSAM's Hackathon
-
-Grey Software will be collaborating with UTMSAM (UofT Mississauga Society for
-Algorithmic Modelling) on a Hackthon to be hosted by the club in January, 2021.
-We worked on an initial draft for this initiative, which can be found on our
-org's GitHub repo (https://github.com/grey-software/org/issues/61).
-
-![utmsam](./utmsam1.png)
-
 ## 4 new External Projects
 
 This week, we onboarded 4 new external projects:
